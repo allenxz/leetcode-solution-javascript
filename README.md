@@ -1,6 +1,10 @@
 # Leetcode题解（javascript 版）
 
-我是按顺序每天一题刷下来的，有些比较简单的而且没什么好说的，就直接A了没记录下来。有错误或者建议的话，欢迎[提交 issue](https://github.com/allenxz/leetcode-solution-javascript/issues) 。
+前面我是按顺序每天一题刷下来的，有些比较简单的而且没什么好说的，就直接A了没记录下来。
+
+后面我发现连着刷会连续几天做类似的题目，有点疲劳，所以就开始随机刷题了。
+
+有错误或者建议的话，欢迎[提交 issue](https://github.com/allenxz/leetcode-solution-javascript/issues) 。
 
 
 
@@ -91,3 +95,5 @@
 [78.子集](docs/day-46.md)
 
 [62.不同路径](docs/day-47.md)
+
+[309. 最佳买卖股票时机含冷冻期](docs/day-48.md)
